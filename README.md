@@ -1,1 +1,1 @@
-[Report](https://docs.google.com/viewer?url=${Report.pdf})
+https://docs.google.com/viewer?url=${Report.pdf}
